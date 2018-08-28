@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-
+//this code written by tarek mohammed shallof Fb:https://www.facebook.com/tareq.moh.963
 int main(){
 FILE *pf;
 int i;
